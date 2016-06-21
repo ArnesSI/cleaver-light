@@ -7,10 +7,10 @@ dark grey   : #272822
 black       : #191919
 
 light blue  : #66d9ef
-blue        : #1db4d0
+blue        : #e6832a
 lavender    : #bf79db
 magenta     : #f92672
-light green : #a6e22e
+light green : #e6832a
 */
 
 /* Local Fonts */
@@ -361,12 +361,12 @@ blockquote p {
 
 a {
   text-decoration: none;
-  color: #1db4d0;
+  color: #e6832a;
 }
 
 a:hover {
-  color: #1db4d0;
-  border-bottom: 1px solid #1db4d0;
+  color: #e6832a;
+  border-bottom: 1px solid #e6832a;
 }
 
 hr {
@@ -395,7 +395,7 @@ table th {
 .progress-bar {
   height: 3px;
   width: 0;
-  background-color: #a6e22e;
+  background-color: #e6832a;
   -webkit-transition: width .15s ease-out;
      -moz-transition: width .15s ease-out;
        -o-transition: width .15s ease-out;
@@ -483,7 +483,7 @@ pre .apache .tag,
 pre .apache .cbracket,
 pre .tex .command,
 pre .prompt {
-  color: #a6e22e;
+  color: #e6832a;
 }
 
 pre .comment,
