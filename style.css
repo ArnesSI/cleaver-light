@@ -410,6 +410,7 @@ table th {
 code {
   padding: .1em .35em;
   font-family: 'Fira Mono';
+  font-size: 16px;
   color: #fafafa;
   background-color: #272822;
   border-radius: 3px;
@@ -419,6 +420,7 @@ pre code {
   display: block;
   padding: .5em;
   font-family: 'Fira Mono';
+  font-size: 16px;
   font-weight: 400;
   overflow-y: hidden;
   background: #272822;
